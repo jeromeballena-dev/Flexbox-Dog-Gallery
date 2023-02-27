@@ -1,3 +1,3 @@
 # Flexbox-gallery
 
->This is a dog photo-gallery project to proctice flexfox properties.
+>This is a dog photo-gallery project to practice flexbox properties.
